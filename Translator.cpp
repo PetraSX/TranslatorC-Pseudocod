@@ -1,3 +1,7 @@
+/*
+    This is just for refference. For it to work, enter the main project.
+*/
+
 #include "Declarari.h"
 #include "Textbox.h"
 
